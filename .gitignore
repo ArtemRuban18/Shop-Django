@@ -1,0 +1,7 @@
+.env
+celerybeat-schedule
+Dockerfile
+Dockerfile.celerybeat
+/shop/settings.py
+docker-compose.yml
+requirements.txt
